@@ -12,9 +12,15 @@ public interface Queue<E> {
      * @return 是否插入成功
      */
     boolean offer(E value);
-    //删除列头元素
+
+    /**
+     * 删除列头元素
+     * @return
+     */
     E poll();
-    //获取列头元素
+    /**
+     * 获取列头元素
+     */
     E peek();
 
     /**
