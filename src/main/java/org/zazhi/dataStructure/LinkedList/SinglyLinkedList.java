@@ -2,7 +2,11 @@ package org.zazhi.dataStructure.LinkedList;
 
 import java.util.Iterator;
 import java.util.function.Consumer;
-
+/**
+ * @Description 单向链表
+ * @Date 2024/1/20
+ * @Created by zazhi
+ */
 public class SinglyLinkedList implements Iterable<Integer> {
     private Node head=null;//头节点
 

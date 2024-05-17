@@ -3,7 +3,7 @@ package org.zazhi.dataStructure.LinkedList;
 import java.util.Iterator;
 
 /**
- * @Description
+ * @Description 双向链表
  * @Date 2024/1/21
  * @Created by zazhi
  */

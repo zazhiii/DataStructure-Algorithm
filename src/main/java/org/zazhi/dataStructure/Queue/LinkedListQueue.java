@@ -19,7 +19,7 @@ public class LinkedListQueue<E> implements Queue<E>,Iterable<E> {
         }
     }
     //链表属性
-    Node<E> head = new Node<E>(null,null);
+    Node<E> head = new Node<>(null, null);
     Node<E> tail = head;
     int size ;
     int capacity = Integer.MAX_VALUE;//容量
