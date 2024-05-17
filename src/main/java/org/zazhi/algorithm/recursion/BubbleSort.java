@@ -1,4 +1,4 @@
-package org.zazhi.algorithm;
+package org.zazhi.algorithm.recursion;
 
 /**
  * @Description 冒泡排序

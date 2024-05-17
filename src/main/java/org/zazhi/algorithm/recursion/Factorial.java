@@ -1,4 +1,4 @@
-package org.zazhi.algorithm;
+package org.zazhi.algorithm.recursion;
 
 /**
  * @Description 计算阶乘
@@ -7,11 +7,12 @@ package org.zazhi.algorithm;
  */
 public class Factorial {
     public static void main(String[] args) {
+
         System.out.println(f(5));
     }
 
 
-    public static int f(int n){
+    public static long f(int n){
         if (n==1)return 1;
         return n*f(n-1);
     }
