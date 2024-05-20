@@ -3,7 +3,7 @@ package org.zazhi.dataStructure.Queue;
 import java.util.Iterator;
 
 /**
- * @Description 环形双向链表实现双端队列
+ * @Description 环形双向链表 --> 双端队列
  * @Date 2024/5/17
  * @Created by zazhi
  */
