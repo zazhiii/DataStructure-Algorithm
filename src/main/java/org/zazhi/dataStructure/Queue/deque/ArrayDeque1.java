@@ -1,4 +1,4 @@
-package org.zazhi.dataStructure.Queue;
+package org.zazhi.dataStructure.Queue.deque;
 
 import java.util.Iterator;
 

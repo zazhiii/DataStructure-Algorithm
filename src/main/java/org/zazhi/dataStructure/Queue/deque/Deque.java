@@ -1,4 +1,4 @@
-package org.zazhi.dataStructure.Queue;
+package org.zazhi.dataStructure.Queue.deque;
 
 /**
  * @Description 双端队列 ：头部和尾部都可以添加删除元素
